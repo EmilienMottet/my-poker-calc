@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 pyo3 = "0.9.2"
+notify = "4.0.12"
+lazy_static = "1.4.0"
